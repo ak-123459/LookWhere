@@ -115,5 +115,5 @@ This project is licensed under the **MIT** License.
 
 ### 👤 Developed by: [Akash Prasad Mishra](https://www.linkedin.com/in/akash-prasad-mishra-85a4991b1/)
 
-### 🏢 Parent Organization: [Positive Pairs]
+### 🏢 Parent Organization: Positive Pairs
 
