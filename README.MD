@@ -6,7 +6,7 @@
 </p>
 
 
-# Auto Face Pose Capture using Logistic Regression
+# 👦🏻 Auto Face Pose Capture using Logistic Regression
 
 
 ## 🚀 Problem Statement
