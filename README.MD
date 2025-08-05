@@ -1,3 +1,10 @@
+
+<!-- Optional: Center the image using HTML -->
+<p align="center">
+  <a href="https://ibb.co/6J73CgV4"><img src="https://i.ibb.co/S74hCRWK/Gemini-Generated-Image-hw10hzhw10hzhw10.png" alt="Gemini-Generated-Image-hw10hzhw10hzhw10" border="0"></a>
+</p>
+
+
 # Auto Face Pose Capture using Logistic Regression
 
 ## 🚀 Problem Statement
