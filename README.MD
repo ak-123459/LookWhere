@@ -1,8 +1,7 @@
 
 <!-- Optional: Center the image using HTML -->
 <p align="start">
-
-<a href="https://ibb.co/Fk4hWcQC"><img src="https://i.ibb.co/zWVm5C3D/Gemini-Generated-Image-vng7evng7evng7ev.png" alt="Gemini-Generated-Image-vng7evng7evng7ev" border="0"></a>
+<a href="https://ibb.co/hxbtSz3s"><img src="https://i.ibb.co/rKY1VrDk/Gemini-Generated-Image-fz81mqfz81mqfz81.png" alt="Gemini-Generated-Image-fz81mqfz81mqfz81" border="0"></a>
 </p>
 
 
