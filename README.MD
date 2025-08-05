@@ -7,10 +7,11 @@
 
 # 👦🏻 Auto Face Pose Capture using Logistic Regression
 
-![GitHub Repo stars](https://img.shields.io/github/stars/username/repo-name?style=social)
-![License](https://img.shields.io/github/license/ak-123459/LookWhere.git)
-![Last Commit](https://img.shields.io/github/last-commit/ak-123459/LookWhere)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![GitHub Repo stars](https://img.shields.io/github/stars/ak-123459/LookWhere?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ak-123459/LookWhere?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ak-123459/LookWhere)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ak-123459/LookWhere)
+![GitHub last commit](https://img.shields.io/github/last-commit/ak-123459/LookWhere)
 
 
 
