@@ -5,7 +5,7 @@
 </p>
 
 
-&nbsp;&nbsp;![GitHub Repo stars](https://img.shields.io/github/stars/ak-123459/LookWhere?style=social)
+       ![GitHub Repo stars](https://img.shields.io/github/stars/ak-123459/LookWhere?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ak-123459/LookWhere?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/ak-123459/LookWhere)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ak-123459/LookWhere)
