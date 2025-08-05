@@ -113,5 +113,7 @@ Hyperparameters and model configs can be found and edited in config.yaml.
 This project is licensed under the **MIT** License.
 
 
+### 👤 Developed by: [Akash Prasad Mishra](https://www.linkedin.com/in/akash-prasad-mishra-85a4991b1/)
 
+### 🏢 Parent Organization: [Positive Pairs]
 
