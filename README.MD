@@ -2,8 +2,7 @@
 <!-- Optional: Center the image using HTML -->
 <p align="start">
 
-<a href="https://ibb.co/bMYNxyQ7"><img src="https://i.ibb.co/0R1YkWmQ/Gemini-Generated-Image-2brhql2brhql2brh.png" alt="Gemini-Generated-Image-2brhql2brhql2brh" border="0"></a>
-
+<a href="https://ibb.co/Fk4hWcQC"><img src="https://i.ibb.co/zWVm5C3D/Gemini-Generated-Image-vng7evng7evng7ev.png" alt="Gemini-Generated-Image-vng7evng7evng7ev" border="0"></a>
 </p>
 
 
