@@ -1,3 +1,4 @@
+
 import os
 import cv2
 import pandas as pd
@@ -98,3 +99,11 @@ class FacePoseDatasetBuilder:
         self._save_dataset()
 
 
+
+# -------------------- Run the Pipeline --------------------
+if __name__ == "__main__":
+    image_folder = r"D:\\video_frames"
+    output_csv = "D:\\video_frames\\yaw_pitch_roll_dataset.csv"
+
+    builder = FacePoseDatasetBuilder(image_folder, output_csv, show_images=False, device_id=0)
+    builder.build()
